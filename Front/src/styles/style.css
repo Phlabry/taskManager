@@ -1,0 +1,15 @@
+.app {
+    background: #1e1e1e;
+    height: 100%;
+}
+
+.phases{
+    flex: auto;
+}
+
+.title { 
+    text-align: center;
+    color:bisque;
+    font-size: 40px;
+    padding-bottom: 2%;
+}

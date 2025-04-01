@@ -1,0 +1,35 @@
+.taskPhases {
+    display: flex;
+    gap: 10px;
+}
+
+.taskPhases div {
+    flex: 1;
+    padding: auto;
+    border: 1px solid rgb(162, 172, 22);
+}
+
+.taskPhases h1 {
+    color:bisque;
+    text-align: center;
+    font-size: 20px;
+}
+
+.taskPhases body {
+    color:bisque;
+    text-align: left;
+}
+
+.edit{
+    font-size: 8px;
+    background-color: yellow;
+}
+
+.delete {
+    font-size:8px;
+    background-color: red;
+}
+
+.task {
+    color:bisque;
+}
